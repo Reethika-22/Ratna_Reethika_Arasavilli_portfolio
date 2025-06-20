@@ -135,7 +135,7 @@ a:hover {
 
 @media (max-width: 768px) {
   #about .content {
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
   }
 
