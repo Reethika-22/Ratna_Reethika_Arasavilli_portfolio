@@ -124,7 +124,7 @@ a:hover {
 
 @media (max-width: 600px) {
   nav {
-    flex-direction: row;
+    flex-direction: coloumn;
     align-items: center;
   }
 
@@ -135,7 +135,7 @@ a:hover {
 
 @media (max-width: 768px) {
   #about .content {
-    flex-direction: row;
+    flex-direction: coloumn;
     text-align: center;
   }
 
