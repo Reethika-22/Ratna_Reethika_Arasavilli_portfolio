@@ -41,5 +41,5 @@ index.html
 
 🔗 LinkedIn: www.linkedin.com/in/reethika-arasavilli2216
 
-💻 GitHub: 
+💻 GitHub: https://github.com/Reethika-22
 
